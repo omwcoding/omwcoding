@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omar</h1>
+<h1 align="center">Hi , I'm Omar 👋</h1>
 <h3 align="center">A noob developer from Italy</h3>
 
 - 🔭 I’m currently working on [a manga database (app?)](https://github.com/omwcoding/MangaDB)
