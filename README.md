@@ -3,7 +3,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on [a manga database (app?)](https://github.com/omwcoding/MangaDB)
+- 🔭 I’m currently working on [a manga database](https://github.com/omwcoding/MangaDB), planning to build an app for it in the future
 
 - 🌱 I’m currently learning **C, Java and MySQL**
   
