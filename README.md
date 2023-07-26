@@ -1,11 +1,11 @@
 <h1 align="center">Hi , I'm Omar 👋</h1>
-<h3 align="center">A noob developer from Italy, currently taking a degree in "IT and Technologies for Software Production" at Università degli Studi di Bari "Aldo Moro" </h3>
+<h3 align="center">A noob developer from Italy, currently studying "IT and Technologies for Software Production" at Università degli Studi di Bari "Aldo Moro" </h3>
 
 <br/>
 
-- 🔭 I’m currently working on [a manga database](https://github.com/omwcoding/MangaDB), planning to build an app for it in the future
+- 🔭 Personal projects? I’m currently working on [a manga database](https://github.com/omwcoding/MangaDB), planning to build an app for it in the future
 
-- 🌱 I’m currently learning **C, Java and MySQL**
+- 🌱 I’m currently learning **C, Java, PHP, HTML, Python and MySQL**
   
 - 👀 I’m interested in software developing, producing music and reading manga
 
