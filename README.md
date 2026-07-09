@@ -1,21 +1,25 @@
 <h1 align="center">Hi, I'm Omar 👋</h1>
-<h3 align="center">Computer Science Student & Developer from Italy 🍕 </h3>
+<h3 align="center">Computer Science Student & Web Developer from Italy 🍕 </h3>
 
 <br/>
+
 - 🎓 I'm studying **Computer Science and Software Production Technologies** at Università degli Studi "Aldo Moro" in Bari, Italy.
 
-- 🔭 Personal projects? I’m currently working on [a manga database](https://github.com/omwcoding/MangaDB), planning to build an app for it in the future
+- 💻 I'm a developer deeply passionate about the frontend ecosystem, with a strong focus on building modern, interactive web applications using **Vue.js, TypeScript, and JavaScript**.
 
-- 🌱 I’m currently learning **C, Java, PHP, HTML, Python and MySQL**
-  
-- 👀 Outside of coding, I live a pretty varied life: I work as a fashion model, make some music and read manga.
+- 🔭 I’m currently building [PO-Companion](https://github.com/omwcoding/PO-Companion), a Web-based Audio Slicer & Sample-Prep Workstation optimized for the Teenage Engineering PO-33.
+
+- 🚀 I also recently developed the [Groovebox Project](https://github.com/omwcoding/groovebox-project), a full-fledged web application built as a university project.
+
+- 🌱 My broader tech stack and learning path include: **C, Java, PHP, Python, and MySQL**.
+
+- 👀 Outside of coding, my life is a mix of different worlds: I work as a fashion model, make some music, read dark manga and enjoy some nature trips!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/kompareomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kompareomar" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/> </a>
