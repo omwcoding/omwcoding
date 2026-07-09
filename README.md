@@ -1,13 +1,14 @@
-<h1 align="center">Hi , I'm Omar 👋</h1>
-<h3 align="center">A noob developer from Italy, currently studying "IT and Technologies for Software Production" at Università degli Studi di Bari "Aldo Moro" </h3>
+<h1 align="center">Hi, I'm Omar 👋</h1>
+<h3 align="center">Computer Science Student & Developer from Italy 🍕 </h3>
 
 <br/>
+- 🎓 I'm studying **Computer Science and Software Production Technologies** at Università degli Studi "Aldo Moro" in Bari, Italy.
 
 - 🔭 Personal projects? I’m currently working on [a manga database](https://github.com/omwcoding/MangaDB), planning to build an app for it in the future
 
 - 🌱 I’m currently learning **C, Java, PHP, HTML, Python and MySQL**
   
-- 👀 I’m interested in software developing, producing music and reading manga
+- 👀 Outside of coding, I live a pretty varied life: I work as a fashion model, make some music and read manga.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,7 +16,15 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+</p>
 
 <!---
 omwcoding/omwcoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
