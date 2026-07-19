@@ -7,9 +7,9 @@
 
 - 💻 I'm a developer deeply passionate about the frontend ecosystem, with a strong focus on building modern, interactive web applications using **Vue.js, TypeScript, and JavaScript**.
 
-- 🔭 I’m currently building [PO-Companion](https://github.com/omwcoding/PO-Companion), a Web-based Audio Slicer & Sample-Prep Workstation optimized for the Teenage Engineering PO-33.
+- 🚀 I’m currently building [Mint](https://github.com/omwcoding/mint-project), a full-fledged web application based on [Groovebox](https://github.com/omwcoding/groovebox) (university project).
 
-- 🚀 I also recently developed the [Groovebox Project](https://github.com/omwcoding/groovebox-project), a full-fledged web application built as a university project.
+- 🔭 I'm also developing [PO-Companion](https://github.com/omwcoding/PO-Companion), a Web-based Audio Slicer & Sample-Prep Workstation optimized for the Teenage Engineering PO-33.
 
 - 🌱 My broader tech stack and learning path include: **C, Java, PHP, Python, and MySQL**.
 
